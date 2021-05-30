@@ -35,7 +35,8 @@ The goal is to stay the last curve on the map, You die if you touch a wall or yo
 
 # Client and Server
 
-The client sends messages to the server in the following format:
+The client sends messages to the server in the following format
+
 **CMD|DATA**
 
 The server decrypts the messages and sends the corresponding data back to the client.
