@@ -22,7 +22,7 @@ I made this project using PyGame library, TCP (socket library), threading and mo
 3. Run the game code.
 4. Have fun!
 
-Note: 2-4 players needed to start a match.
+Note: 2-4 players needed to start a match (can open 2 instances on the same computer).
 # Game Rules
 
 Curve Online is an online game, up to 4 players.
